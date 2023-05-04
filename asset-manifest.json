@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/netflixo.github.io./static/css/main.a4c9e8c6.css",
-    "main.js": "/netflixo.github.io./static/js/main.e0c1a753.js",
-    "static/js/787.633816a4.chunk.js": "/netflixo.github.io./static/js/787.633816a4.chunk.js",
-    "index.html": "/netflixo.github.io./index.html",
-    "main.a4c9e8c6.css.map": "/netflixo.github.io./static/css/main.a4c9e8c6.css.map",
-    "main.e0c1a753.js.map": "/netflixo.github.io./static/js/main.e0c1a753.js.map",
-    "787.633816a4.chunk.js.map": "/netflixo.github.io./static/js/787.633816a4.chunk.js.map"
+    "main.css": "/netflixo.github.io/static/css/main.a4c9e8c6.css",
+    "main.js": "/netflixo.github.io/static/js/main.b7249699.js",
+    "static/js/787.633816a4.chunk.js": "/netflixo.github.io/static/js/787.633816a4.chunk.js",
+    "index.html": "/netflixo.github.io/index.html",
+    "main.a4c9e8c6.css.map": "/netflixo.github.io/static/css/main.a4c9e8c6.css.map",
+    "main.b7249699.js.map": "/netflixo.github.io/static/js/main.b7249699.js.map",
+    "787.633816a4.chunk.js.map": "/netflixo.github.io/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c9e8c6.css",
-    "static/js/main.e0c1a753.js"
+    "static/js/main.b7249699.js"
   ]
 }
